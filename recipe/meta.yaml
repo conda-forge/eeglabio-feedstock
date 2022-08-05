@@ -1,5 +1,5 @@
 {% set name = "eeglabio" %}
-{% set version = "0.0.2" %}
+{% set version = "0.0.2.post1" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/eeglabio-{{ version }}.tar.gz
-  sha256: 0c72cb5daa888f7b4a465b92e435c4cfc9891ec17c8b1e74619ef71782b24f6d
+  sha256: 2005b4be80005e1eb5c4a82b4e57469bce112e100a813c08d0d9fd5858f431f8
 
 build:
   number: 0
