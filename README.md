@@ -1,11 +1,11 @@
-About eeglabio
-==============
+About eeglabio-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/eeglabio-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/jackz314/eeglabio
 
 Package license: BSD-3-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/eeglabio-feedstock/blob/main/LICENSE.txt)
 
 Summary: I/O support for EEGLAB files in Python
 
